@@ -31,8 +31,8 @@ ClimateBench is a benchmark dataset for climate model emulation inspired by [Wea
 
 The processed training and validation data can be obtained from Zenodo: [10.5281/zenodo.5196512](https://doi.org/10.5281/zenodo.5196512).
 
-- [Training Data]()
-- [Testing Data]()
+- [Training Data](https://doi.org/10.5281/zenodo.5465895)
+- [Testing Data](https://drive.google.com/drive/u/2/folders/1VjoGpQjQxoruq5qCj90Txnz--ss5ulvg)
 
 ## Reference
 

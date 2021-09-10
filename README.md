@@ -5,7 +5,7 @@ This joint hackathon event is coorganized by [3rd NOAA AI Workshop](https://2021
 There are three hackathon challenges this year for participants to choose from:
 
 - [ClimateBench](https://github.com/climate-informatics/hackathon-2021/tree/main/climatebench)
-- [Wildfire Risk Prediction](https://github.com/climate-informatics/hackathon-2021/tree/main/marine_heatwave)
+- [Wildfire Risk Prediction](https://github.com/climate-informatics/hackathon-2021/tree/main/wildfire_risk/README.md)
 - [Marine Heatwave Prediction](https://github.com/climate-informatics/hackathon-2021/blob/main/marine_heatwave/README.md)
 
 ## Submission instruction for participating teams

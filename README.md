@@ -6,6 +6,6 @@ There are three hackathon challenges this year for participants to choose from:
 
 - [ClimateBench]
 - [Wildfire Risk Prediction]
-- [Marine Heatwave Prediction]
+- [Marine Heatwave Prediction](https://github.com/climate-informatics/hackathon-2021/blob/main/marine_heatwave/README.md)
 
 

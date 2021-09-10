@@ -3,8 +3,8 @@
 
 *In collaboration with [Duncan Watson-Parris](https://duncanwp.github.io/).* 
 
-- [Scoring Board](##Scoring Board)
-- [Problem Statement](##Problem Statement)
+- [Scoring Board](#Scoring-Board)
+- [Problem Statement](#Problem-Statement)
 
 ## Scoring Board (Updated every 6 hours)  
 

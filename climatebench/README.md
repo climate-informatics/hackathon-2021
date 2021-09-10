@@ -1,5 +1,4 @@
 # ClimateBench
----
 
 *In collaboration with [Duncan Watson-Parris](https://duncanwp.github.io/).* 
 

@@ -8,4 +8,6 @@ There are three hackathon challenges this year for participants to choose from:
 - [Wildfire Risk Prediction](https://github.com/climate-informatics/hackathon-2021/tree/main/marine_heatwave)
 - [Marine Heatwave Prediction](https://github.com/climate-informatics/hackathon-2021/blob/main/marine_heatwave/README.md)
 
+## Submission instruction for participating teams
 
+Please submit your team's solution using this [Google Form](https://forms.gle/QgetGq9uA4KhZCpF8) following instructions for each topic.

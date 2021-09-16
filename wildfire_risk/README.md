@@ -9,11 +9,14 @@
 - [Data](#Data)
 - [Reference](#Reference)
 
-## Leader Board (Updated every 6 hours)  
+## Leader Board
 
-Team Name | RMSE \n(Structure Damaged) | Mean Error (Structure Damaged) | Median Error\n (Structure Damaged)| RMSE (Structure Destroyed)
---------- | ------------------------ | ------------------------ | ------------------------ | ------------------------  
-SEEKingTreesOnFire  |   |   | |
+Team Name | RMSE (Structure Damaged) | Mean Error (Structure Damaged) | Median Error (Structure Damaged)| RMSE (Structure Destroyed) | Mean Error (Structure Destroyed) | Median Error (Structure Destroyed)
+--------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ | | ------------------------ 
+SEEKingTreesOnFire  | 698.3  | -47.5 | -0.1 | 691.0 | -32.4 | 0.5
+Firefly | 712.7 | -50.2 | 0.4 | 734.6 | -44.6 | 1.1
+too_hot_to_handle | 712.5 | -50.1 | 0.4 | 734.6 | -44.1 | 1.1
+Into the Wild | 705.4 | -48.7 | 0.2 | 726.8 | -42.0 | 4.6
 
 ## Background
 

@@ -2,13 +2,13 @@
 
 *In collaboration with [Duncan Watson-Parris](https://duncanwp.github.io/).* 
 
-- [Scoring Board](#Leader-Board)
+- [Leader Board](#Leader-Board)
 - [Problem Statement](#Background)
 - [Goal](#Goal)
 - [Data](#Data)
 - [Reference](#Reference)
 
-## Leaer Board 
+## Leader Board 
 
 Team Name | RMSE (Ta) | RMSE (DTR) | RMSE (Prcp) | RMSE (Prcp_90) 
 --------- | --------- | ---------- | ----------- | --------------

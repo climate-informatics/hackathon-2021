@@ -3,17 +3,17 @@
 
 *In collaboration with [Natasha Stavros](https://earthlab.colorado.edu/our-team/natasha-stavros) and [Max Cook](https://earthlab.colorado.edu/our-team/max-cook).* 
 
-- [Scoring Board](#Scoring-Board)
+- [Leader Board](#Leader-Board)
 - [Problem Statement](#Background)
 - [Goal](#Goal)
 - [Data](#Data)
 - [Reference](#Reference)
 
-## Scoring Board (Updated every 6 hours)  
+## Leader Board (Updated every 6 hours)  
 
-Team Name | RMSE (Structure Damaged) | RMSE (Structure Destroyed)
---------- | ------------------------ | --------------------------
-  |   |   
+Team Name | RMSE \n(Structure Damaged) | Mean Error (Structure Damaged) | Median Error\n (Structure Damaged)| RMSE (Structure Destroyed)
+--------- | ------------------------ | ------------------------ | ------------------------ | ------------------------  
+SEEKingTreesOnFire  |   |   | |
 
 ## Background
 

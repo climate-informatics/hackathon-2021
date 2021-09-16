@@ -8,11 +8,13 @@
 - [Data](#Data)
 - [Reference](#Reference)
 
-## Scoring Board (Updated every 6 hours)  
+## Scoring Board  
 
-Team Name | F1 Score | Accuracy
---------- | -------- | --------
-  |   |  
+Team Name | Accuracy | Precision
+--------- | -------- | ---------
+ JAM & G |  0.78 |  0.62
+ JAM & G |  0.78 |  0.47
+ JAM & G |  0.78 |  0.44
 
 ## Background
 

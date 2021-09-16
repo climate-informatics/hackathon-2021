@@ -11,8 +11,8 @@
 
 ## Leader Board
 
-Team Name | RMSE (Structure Damaged) | Mean Error (Structure Damaged) | Median Error (Structure Damaged)| RMSE (Structure Destroyed) | Mean Error (Structure Destroyed) | Median Error (Structure Destroyed)
---------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ | | ------------------------ 
+Team Name | RMSE (Structure Damaged) | Mean Error (Structure Damaged) | Median Error (Structure Damaged)| RMSE (Structure Destroyed) | Mean Error (Structure Destroyed) | Median Error (Structure Destroyed)  
+--------- | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ 
 SEEKingTreesOnFire  | 698.3  | -47.5 | -0.1 | 691.0 | -32.4 | 0.5
 Firefly | 712.7 | -50.2 | 0.4 | 734.6 | -44.6 | 1.1
 too_hot_to_handle | 712.5 | -50.1 | 0.4 | 734.6 | -44.1 | 1.1

@@ -2,17 +2,21 @@
 
 *In collaboration with [Duncan Watson-Parris](https://duncanwp.github.io/).* 
 
-- [Scoring Board](#Scoring-Board)
+- [Scoring Board](#Leader-Board)
 - [Problem Statement](#Background)
 - [Goal](#Goal)
 - [Data](#Data)
 - [Reference](#Reference)
 
-## Scoring Board (Updated every 6 hours)  
+## Leaer Board 
 
 Team Name | RMSE (Ta) | RMSE (DTR) | RMSE (Prcp) | RMSE (Prcp_90) 
 --------- | --------- | ---------- | ----------- | --------------
-  |   |   |   | 
+ Benched Cloudies | 0.728  | 0.206  | 0.281  | 0.281
+ Enulateam | 1.006 | 0.201 | 0.337 | 0.337
+ FL2L | 0.430 | 0.161 | 0.574 | 0.574
+ Manta Rays | 1.006 | 0.213 | 0.444 | 0.444
+ e-mules⚡🐴 | 1.030 | 0.450 | 0.533 | 0.533
 
 ## Background
 Many different emissions pathways exist that are compatible with the Paris climate agreement, and many more are possible that miss that target. Sampling possible emissions scenarios are therefore crucial for policymakers to weigh the cost and impact of different mitigation and adaptation strategies. While many of the most complex Earth System Models have simulated a small selection of ‘Shared Socioeconomic Pathways’ it is impractical to use these expensive models to fully explore the space of possibilities. Therefore such explorations mostly rely on one-dimensional impulse response models, or simple pattern scaling approaches to approximate the physical climate response to a given scenario. 
